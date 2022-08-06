@@ -1,7 +1,7 @@
 # Analyze data on global educational systems
 
-### Mission
+### Overview: Rank countries by the market opportunity for an EdTech start-up 
 
-We were asked to realize an exploratory data analysis to provide visualization and insights of a data set on global education systems to help an Ed-Tech start-up spot opportunities abroad. 
+The provided dataset (on global education) is cleaned using regular expressions, drops, and statistical as well as logical imputations. An explanatory data analysis is realized through univariate and multivariate analysis. 
 
-This was the occasion to strengthen our data cleaning skills before using univariate and multivariate analysis for feature selection to create a score to rank countries by their business potential. 
+Features are selected to compute two scores to help apprehend market opportunities. Each score provides a ranking. Linear regressions are used to project the scores through future years to predict the evolution of the market opportunities and the 
